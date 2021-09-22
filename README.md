@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 I'm Iuri - Student at Free UNI
 
+- 🔭 I’m currently working on no code tools at [TemiCloud](https://github.com/temicloud)
+- 🌱 I’m currently learning & working on NestJS & NextJS.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijiki16&show_icons=true&theme=merko)  
+
 ### Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ijiki16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iuri-jikidze/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10094303) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='stackoverflow' height='40'>](https://twitter.com/AppleCross30) 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijiki16&show_icons=true&count_private=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iuri-jikidze/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10094303) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='stackoverflow' height='40'>](https://twitter.com/AppleCross30) 
 
 
 ![Profile views](https://gpvc.arturio.dev/ijiki16) 
