@@ -10,22 +10,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 I'm Iuri - Student at Free UNI
 
-- 🔭 I’m currently working on no code tools at [TemiCloud](https://github.com/temicloud)
-- 🌱 I’m currently learning & working on NestJS & NextJS.
+- 🔭  I’m currently working on no code tools at [TemiCloud](https://github.com/temicloud)
+- 🌱  I’m currently learning & working on NestJS & NextJS.
+- 📫  How to reach me: [@AppleCross30](https://twitter.com/AppleCross30)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijiki16&show_icons=true&theme=merko)  
-
-### Contact Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iuri-jikidze/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10094303) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='stackoverflow' height='40'>](https://twitter.com/AppleCross30) 
-
+|           GitHub stats        |
+| :---------------------------: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijiki16&show_icons=true&hide_border=true&theme=merko)  |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiki16&show_icons=true&hide_border=true&layout=compact&card_width=440&langs_count=6&theme=merko)  |
 
 ![Profile views](https://gpvc.arturio.dev/ijiki16) 
 
