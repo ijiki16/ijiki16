@@ -9,16 +9,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 🔭  I’m currently searching for work 👀
+- 🔭 I’m currently searching for work 👀
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-I'm Iuri - Frontend Developer @Diflex-global at Free UNI
+I'm Iuri - Frontend Developer @Diflex-global
 
 
-- 🌱  I’m currently working on some personal projects on NestJS & NextJS.
+- 🌱  I’m currently working on NextJS (React.JS) project.
 - 📫  How to reach me: [@AppleCross30](https://twitter.com/AppleCross30) or on [Iuri Jikidze](mailto:iuri.jikidze@gmail.com?subject=[GitHub]) 📩
 
 ### Languages and Tools:
