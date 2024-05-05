@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Iuri - Frontend Developer @Diflex-global
+I'm Iuri - Software Developer
 
 
-- 🌱  I’m currently working on NextJS (React.JS) project.
+- 🌱  I’m currently working on NextJS (React.JS) projects.
 - 📫  How to reach me: [@AppleCross30](https://twitter.com/AppleCross30) or on [Iuri Jikidze](mailto:iuri.jikidze@gmail.com?subject=[GitHub]) 📩
 
 ### Languages and Tools:
