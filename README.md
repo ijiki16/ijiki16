@@ -26,7 +26,11 @@ I'm Iuri - Software Developer
 
 ### Languages and Tools:
 
-<a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://img.shields.io/badge/vs code%20-%2300599C.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a> 
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/git%20-%2300599C.svg?&style=for-the-badge&color=white&logo=git" /></a> 
+<a href="https://code.visualstudio.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/vs code%20-%2300599C.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</a>
+<a href="https://git-scm.com/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/git%20-%2300599C.svg?&style=for-the-badge&color=white&logo=git" />
+</a>
 
 
