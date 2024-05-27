@@ -21,8 +21,8 @@ I'm Iuri - Software Developer
 - 🌱  I’m currently working on NextJS (React.JS) projects.
 - 📫  How to reach me: [@AppleCross30](https://twitter.com/AppleCross30) or on [Iuri Jikidze](mailto:iuri.jikidze@gmail.com?subject=[GitHub]) 📩
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijiki16&show_icons=true&count_private=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijiki16\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijiki16&langs_count=6)
 
 ### Languages and Tools:
 
